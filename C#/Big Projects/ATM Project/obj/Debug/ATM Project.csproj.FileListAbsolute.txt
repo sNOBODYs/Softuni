@@ -1,0 +1,18 @@
+D:\visual studio\Срочен проект\ATM-Project-master\ATM Project\bin\Debug\ATM Project.exe.config
+D:\visual studio\Срочен проект\ATM-Project-master\ATM Project\bin\Debug\ATM Project.exe
+D:\visual studio\Срочен проект\ATM-Project-master\ATM Project\bin\Debug\ATM Project.pdb
+D:\visual studio\Срочен проект\ATM-Project-master\ATM Project\obj\Debug\ATM Project.csproj.AssemblyReference.cache
+D:\visual studio\Срочен проект\ATM-Project-master\ATM Project\obj\Debug\ATM Project.csproj.CoreCompileInputs.cache
+D:\visual studio\Срочен проект\ATM-Project-master\ATM Project\obj\Debug\ATM Project.exe
+D:\visual studio\Срочен проект\ATM-Project-master\ATM Project\obj\Debug\ATM Project.pdb
+D:\visual studio\Srochen\ATM-Project-master\ATM Project\obj\Debug\ATM Project.csproj.AssemblyReference.cache
+D:\visual studio\Srochen\ATM-Project-master\ATM Project\obj\Debug\ATM Project.csproj.CoreCompileInputs.cache
+D:\visual studio\Srochen\ATM-Project-master\ATM Project\obj\Debug\ATM Project.exe
+D:\visual studio\Srochen\ATM-Project-master\ATM Project\obj\Debug\ATM Project.pdb
+D:\Programing\Visual studio\Проекти\ATM Project\bin\Debug\ATM Project.exe.config
+D:\Programing\Visual studio\Проекти\ATM Project\bin\Debug\ATM Project.exe
+D:\Programing\Visual studio\Проекти\ATM Project\bin\Debug\ATM Project.pdb
+D:\Programing\Visual studio\Проекти\ATM Project\obj\Debug\ATM Project.csproj.AssemblyReference.cache
+D:\Programing\Visual studio\Проекти\ATM Project\obj\Debug\ATM Project.csproj.CoreCompileInputs.cache
+D:\Programing\Visual studio\Проекти\ATM Project\obj\Debug\ATM Project.exe
+D:\Programing\Visual studio\Проекти\ATM Project\obj\Debug\ATM Project.pdb

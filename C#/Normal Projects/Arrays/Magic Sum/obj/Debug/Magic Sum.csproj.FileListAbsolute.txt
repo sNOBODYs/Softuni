@@ -1,0 +1,7 @@
+D:\visual studio\projekts\Arrays\Magic Sum\bin\Debug\Magic Sum.exe.config
+D:\visual studio\projekts\Arrays\Magic Sum\bin\Debug\Magic Sum.exe
+D:\visual studio\projekts\Arrays\Magic Sum\bin\Debug\Magic Sum.pdb
+D:\visual studio\projekts\Arrays\Magic Sum\obj\Debug\Magic Sum.csprojAssemblyReference.cache
+D:\visual studio\projekts\Arrays\Magic Sum\obj\Debug\Magic Sum.csproj.CoreCompileInputs.cache
+D:\visual studio\projekts\Arrays\Magic Sum\obj\Debug\Magic Sum.exe
+D:\visual studio\projekts\Arrays\Magic Sum\obj\Debug\Magic Sum.pdb

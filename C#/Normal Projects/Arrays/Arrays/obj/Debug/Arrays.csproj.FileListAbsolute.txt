@@ -1,0 +1,7 @@
+D:\visual studio\projekts\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\visual studio\projekts\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\visual studio\projekts\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\visual studio\projekts\Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+D:\visual studio\projekts\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\visual studio\projekts\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\visual studio\projekts\Arrays\Arrays\obj\Debug\Arrays.pdb
