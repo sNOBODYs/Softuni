@@ -1,0 +1,13 @@
+D:\visual studio\projekts\Comparing Objects\Comparing Objects\bin\Debug\netcoreapp3.1\Comparing Objects.exe
+D:\visual studio\projekts\Comparing Objects\Comparing Objects\bin\Debug\netcoreapp3.1\Comparing Objects.deps.json
+D:\visual studio\projekts\Comparing Objects\Comparing Objects\bin\Debug\netcoreapp3.1\Comparing Objects.runtimeconfig.json
+D:\visual studio\projekts\Comparing Objects\Comparing Objects\bin\Debug\netcoreapp3.1\Comparing Objects.runtimeconfig.dev.json
+D:\visual studio\projekts\Comparing Objects\Comparing Objects\bin\Debug\netcoreapp3.1\Comparing Objects.dll
+D:\visual studio\projekts\Comparing Objects\Comparing Objects\bin\Debug\netcoreapp3.1\Comparing Objects.pdb
+D:\visual studio\projekts\Comparing Objects\Comparing Objects\obj\Debug\netcoreapp3.1\Comparing Objects.csproj.AssemblyReference.cache
+D:\visual studio\projekts\Comparing Objects\Comparing Objects\obj\Debug\netcoreapp3.1\Comparing Objects.AssemblyInfoInputs.cache
+D:\visual studio\projekts\Comparing Objects\Comparing Objects\obj\Debug\netcoreapp3.1\Comparing Objects.AssemblyInfo.cs
+D:\visual studio\projekts\Comparing Objects\Comparing Objects\obj\Debug\netcoreapp3.1\Comparing Objects.csproj.CoreCompileInputs.cache
+D:\visual studio\projekts\Comparing Objects\Comparing Objects\obj\Debug\netcoreapp3.1\Comparing Objects.dll
+D:\visual studio\projekts\Comparing Objects\Comparing Objects\obj\Debug\netcoreapp3.1\Comparing Objects.pdb
+D:\visual studio\projekts\Comparing Objects\Comparing Objects\obj\Debug\netcoreapp3.1\Comparing Objects.genruntimeconfig.cache
