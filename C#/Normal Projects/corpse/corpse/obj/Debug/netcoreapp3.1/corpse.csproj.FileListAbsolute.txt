@@ -1,0 +1,12 @@
+D:\visual studio\projekts\corpse\corpse\bin\Debug\netcoreapp3.1\corpse.exe
+D:\visual studio\projekts\corpse\corpse\bin\Debug\netcoreapp3.1\corpse.deps.json
+D:\visual studio\projekts\corpse\corpse\bin\Debug\netcoreapp3.1\corpse.runtimeconfig.json
+D:\visual studio\projekts\corpse\corpse\bin\Debug\netcoreapp3.1\corpse.runtimeconfig.dev.json
+D:\visual studio\projekts\corpse\corpse\bin\Debug\netcoreapp3.1\corpse.dll
+D:\visual studio\projekts\corpse\corpse\bin\Debug\netcoreapp3.1\corpse.pdb
+D:\visual studio\projekts\corpse\corpse\obj\Debug\netcoreapp3.1\corpse.csproj.CoreCompileInputs.cache
+D:\visual studio\projekts\corpse\corpse\obj\Debug\netcoreapp3.1\corpse.AssemblyInfoInputs.cache
+D:\visual studio\projekts\corpse\corpse\obj\Debug\netcoreapp3.1\corpse.AssemblyInfo.cs
+D:\visual studio\projekts\corpse\corpse\obj\Debug\netcoreapp3.1\corpse.dll
+D:\visual studio\projekts\corpse\corpse\obj\Debug\netcoreapp3.1\corpse.pdb
+D:\visual studio\projekts\corpse\corpse\obj\Debug\netcoreapp3.1\corpse.genruntimeconfig.cache

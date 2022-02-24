@@ -1,0 +1,13 @@
+D:\visual studio\projekts\Father\Father\obj\Debug\netcoreapp3.1\Father.csprojAssemblyReference.cache
+D:\visual studio\projekts\Father\Father\obj\Debug\netcoreapp3.1\Father.csproj.CoreCompileInputs.cache
+D:\visual studio\projekts\Father\Father\obj\Debug\netcoreapp3.1\Father.AssemblyInfoInputs.cache
+D:\visual studio\projekts\Father\Father\obj\Debug\netcoreapp3.1\Father.AssemblyInfo.cs
+D:\visual studio\projekts\Father\Father\bin\Debug\netcoreapp3.1\Father.exe
+D:\visual studio\projekts\Father\Father\bin\Debug\netcoreapp3.1\Father.deps.json
+D:\visual studio\projekts\Father\Father\bin\Debug\netcoreapp3.1\Father.runtimeconfig.json
+D:\visual studio\projekts\Father\Father\bin\Debug\netcoreapp3.1\Father.runtimeconfig.dev.json
+D:\visual studio\projekts\Father\Father\bin\Debug\netcoreapp3.1\Father.dll
+D:\visual studio\projekts\Father\Father\bin\Debug\netcoreapp3.1\Father.pdb
+D:\visual studio\projekts\Father\Father\obj\Debug\netcoreapp3.1\Father.dll
+D:\visual studio\projekts\Father\Father\obj\Debug\netcoreapp3.1\Father.pdb
+D:\visual studio\projekts\Father\Father\obj\Debug\netcoreapp3.1\Father.genruntimeconfig.cache

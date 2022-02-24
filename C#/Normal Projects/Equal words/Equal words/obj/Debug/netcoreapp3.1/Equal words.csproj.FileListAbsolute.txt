@@ -1,0 +1,11 @@
+D:\visual studio\projekts\Equal words\Equal words\bin\Debug\netcoreapp3.1\Equal words.exe
+D:\visual studio\projekts\Equal words\Equal words\bin\Debug\netcoreapp3.1\Equal words.deps.json
+D:\visual studio\projekts\Equal words\Equal words\bin\Debug\netcoreapp3.1\Equal words.runtimeconfig.json
+D:\visual studio\projekts\Equal words\Equal words\bin\Debug\netcoreapp3.1\Equal words.runtimeconfig.dev.json
+D:\visual studio\projekts\Equal words\Equal words\bin\Debug\netcoreapp3.1\Equal words.dll
+D:\visual studio\projekts\Equal words\Equal words\bin\Debug\netcoreapp3.1\Equal words.pdb
+D:\visual studio\projekts\Equal words\Equal words\obj\Debug\netcoreapp3.1\Equal words.csprojAssemblyReference.cache
+D:\visual studio\projekts\Equal words\Equal words\obj\Debug\netcoreapp3.1\Equal words.AssemblyInfoInputs.cache
+D:\visual studio\projekts\Equal words\Equal words\obj\Debug\netcoreapp3.1\Equal words.AssemblyInfo.cs
+D:\visual studio\projekts\Equal words\Equal words\obj\Debug\netcoreapp3.1\Equal words.dll
+D:\visual studio\projekts\Equal words\Equal words\obj\Debug\netcoreapp3.1\Equal words.pdb
