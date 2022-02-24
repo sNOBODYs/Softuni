@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W/nYyYkjFWjbmNjJs1ORY9tctuzfd6VuCEAtkwP+PDpHREFFqZcSyaUycMFYHlY1MmIJqTZK6zOazZytqBk4GQ==",
+  "success": true,
+  "projectFilePath": "D:\\visual studio\\projekts\\days of the week with cases\\days of the week with cases\\days of the week with cases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
