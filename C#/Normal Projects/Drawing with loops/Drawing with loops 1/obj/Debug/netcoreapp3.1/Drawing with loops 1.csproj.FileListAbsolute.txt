@@ -1,0 +1,13 @@
+D:\visual studio\projekts\Drawing with loops\Drawing with loops 1\bin\Debug\netcoreapp3.1\Drawing with loops 1.exe
+D:\visual studio\projekts\Drawing with loops\Drawing with loops 1\bin\Debug\netcoreapp3.1\Drawing with loops 1.deps.json
+D:\visual studio\projekts\Drawing with loops\Drawing with loops 1\bin\Debug\netcoreapp3.1\Drawing with loops 1.runtimeconfig.json
+D:\visual studio\projekts\Drawing with loops\Drawing with loops 1\bin\Debug\netcoreapp3.1\Drawing with loops 1.runtimeconfig.dev.json
+D:\visual studio\projekts\Drawing with loops\Drawing with loops 1\bin\Debug\netcoreapp3.1\Drawing with loops 1.dll
+D:\visual studio\projekts\Drawing with loops\Drawing with loops 1\bin\Debug\netcoreapp3.1\Drawing with loops 1.pdb
+D:\visual studio\projekts\Drawing with loops\Drawing with loops 1\obj\Debug\netcoreapp3.1\Drawing with loops 1.csprojAssemblyReference.cache
+D:\visual studio\projekts\Drawing with loops\Drawing with loops 1\obj\Debug\netcoreapp3.1\Drawing with loops 1.AssemblyInfoInputs.cache
+D:\visual studio\projekts\Drawing with loops\Drawing with loops 1\obj\Debug\netcoreapp3.1\Drawing with loops 1.AssemblyInfo.cs
+D:\visual studio\projekts\Drawing with loops\Drawing with loops 1\obj\Debug\netcoreapp3.1\Drawing with loops 1.csproj.CoreCompileInputs.cache
+D:\visual studio\projekts\Drawing with loops\Drawing with loops 1\obj\Debug\netcoreapp3.1\Drawing with loops 1.dll
+D:\visual studio\projekts\Drawing with loops\Drawing with loops 1\obj\Debug\netcoreapp3.1\Drawing with loops 1.pdb
+D:\visual studio\projekts\Drawing with loops\Drawing with loops 1\obj\Debug\netcoreapp3.1\Drawing with loops 1.genruntimeconfig.cache
