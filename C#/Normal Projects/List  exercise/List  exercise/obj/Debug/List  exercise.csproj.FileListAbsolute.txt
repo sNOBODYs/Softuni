@@ -1,0 +1,7 @@
+D:\visual studio\projekts\List  exercise\List  exercise\bin\Debug\List  exercise.exe.config
+D:\visual studio\projekts\List  exercise\List  exercise\bin\Debug\List  exercise.exe
+D:\visual studio\projekts\List  exercise\List  exercise\bin\Debug\List  exercise.pdb
+D:\visual studio\projekts\List  exercise\List  exercise\obj\Debug\List  exercise.csprojAssemblyReference.cache
+D:\visual studio\projekts\List  exercise\List  exercise\obj\Debug\List  exercise.csproj.CoreCompileInputs.cache
+D:\visual studio\projekts\List  exercise\List  exercise\obj\Debug\List  exercise.exe
+D:\visual studio\projekts\List  exercise\List  exercise\obj\Debug\List  exercise.pdb

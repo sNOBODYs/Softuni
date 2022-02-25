@@ -1,0 +1,13 @@
+D:\visual studio\projekts\Listy Iterator\Listy Iterator\bin\Debug\netcoreapp3.1\Listy Iterator.exe
+D:\visual studio\projekts\Listy Iterator\Listy Iterator\bin\Debug\netcoreapp3.1\Listy Iterator.deps.json
+D:\visual studio\projekts\Listy Iterator\Listy Iterator\bin\Debug\netcoreapp3.1\Listy Iterator.runtimeconfig.json
+D:\visual studio\projekts\Listy Iterator\Listy Iterator\bin\Debug\netcoreapp3.1\Listy Iterator.runtimeconfig.dev.json
+D:\visual studio\projekts\Listy Iterator\Listy Iterator\bin\Debug\netcoreapp3.1\Listy Iterator.dll
+D:\visual studio\projekts\Listy Iterator\Listy Iterator\bin\Debug\netcoreapp3.1\Listy Iterator.pdb
+D:\visual studio\projekts\Listy Iterator\Listy Iterator\obj\Debug\netcoreapp3.1\Listy Iterator.csproj.AssemblyReference.cache
+D:\visual studio\projekts\Listy Iterator\Listy Iterator\obj\Debug\netcoreapp3.1\Listy Iterator.AssemblyInfoInputs.cache
+D:\visual studio\projekts\Listy Iterator\Listy Iterator\obj\Debug\netcoreapp3.1\Listy Iterator.AssemblyInfo.cs
+D:\visual studio\projekts\Listy Iterator\Listy Iterator\obj\Debug\netcoreapp3.1\Listy Iterator.csproj.CoreCompileInputs.cache
+D:\visual studio\projekts\Listy Iterator\Listy Iterator\obj\Debug\netcoreapp3.1\Listy Iterator.dll
+D:\visual studio\projekts\Listy Iterator\Listy Iterator\obj\Debug\netcoreapp3.1\Listy Iterator.pdb
+D:\visual studio\projekts\Listy Iterator\Listy Iterator\obj\Debug\netcoreapp3.1\Listy Iterator.genruntimeconfig.cache
