@@ -1,0 +1,13 @@
+D:\visual studio\projekts\Final Test\Final Test\bin\Debug\netcoreapp3.1\Final Test.exe
+D:\visual studio\projekts\Final Test\Final Test\bin\Debug\netcoreapp3.1\Final Test.deps.json
+D:\visual studio\projekts\Final Test\Final Test\bin\Debug\netcoreapp3.1\Final Test.runtimeconfig.json
+D:\visual studio\projekts\Final Test\Final Test\bin\Debug\netcoreapp3.1\Final Test.runtimeconfig.dev.json
+D:\visual studio\projekts\Final Test\Final Test\bin\Debug\netcoreapp3.1\Final Test.dll
+D:\visual studio\projekts\Final Test\Final Test\bin\Debug\netcoreapp3.1\Final Test.pdb
+D:\visual studio\projekts\Final Test\Final Test\obj\Debug\netcoreapp3.1\Final Test.csproj.AssemblyReference.cache
+D:\visual studio\projekts\Final Test\Final Test\obj\Debug\netcoreapp3.1\Final Test.AssemblyInfoInputs.cache
+D:\visual studio\projekts\Final Test\Final Test\obj\Debug\netcoreapp3.1\Final Test.AssemblyInfo.cs
+D:\visual studio\projekts\Final Test\Final Test\obj\Debug\netcoreapp3.1\Final Test.csproj.CoreCompileInputs.cache
+D:\visual studio\projekts\Final Test\Final Test\obj\Debug\netcoreapp3.1\Final Test.dll
+D:\visual studio\projekts\Final Test\Final Test\obj\Debug\netcoreapp3.1\Final Test.pdb
+D:\visual studio\projekts\Final Test\Final Test\obj\Debug\netcoreapp3.1\Final Test.genruntimeconfig.cache

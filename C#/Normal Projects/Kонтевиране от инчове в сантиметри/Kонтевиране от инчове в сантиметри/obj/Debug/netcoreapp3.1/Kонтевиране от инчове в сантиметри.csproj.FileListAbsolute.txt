@@ -1,0 +1,11 @@
+D:\visual studio\projekts\Kонтевиране от инчове в сантиметри\Kонтевиране от инчове в сантиметри\bin\Debug\netcoreapp3.1\Kонтевиране от инчове в сантиметри.exe
+D:\visual studio\projekts\Kонтевиране от инчове в сантиметри\Kонтевиране от инчове в сантиметри\bin\Debug\netcoreapp3.1\Kонтевиране от инчове в сантиметри.deps.json
+D:\visual studio\projekts\Kонтевиране от инчове в сантиметри\Kонтевиране от инчове в сантиметри\bin\Debug\netcoreapp3.1\Kонтевиране от инчове в сантиметри.runtimeconfig.json
+D:\visual studio\projekts\Kонтевиране от инчове в сантиметри\Kонтевиране от инчове в сантиметри\bin\Debug\netcoreapp3.1\Kонтевиране от инчове в сантиметри.runtimeconfig.dev.json
+D:\visual studio\projekts\Kонтевиране от инчове в сантиметри\Kонтевиране от инчове в сантиметри\bin\Debug\netcoreapp3.1\Kонтевиране от инчове в сантиметри.dll
+D:\visual studio\projekts\Kонтевиране от инчове в сантиметри\Kонтевиране от инчове в сантиметри\bin\Debug\netcoreapp3.1\Kонтевиране от инчове в сантиметри.pdb
+D:\visual studio\projekts\Kонтевиране от инчове в сантиметри\Kонтевиране от инчове в сантиметри\obj\Debug\netcoreapp3.1\Kонтевиране от инчове в сантиметри.AssemblyInfoInputs.cache
+D:\visual studio\projekts\Kонтевиране от инчове в сантиметри\Kонтевиране от инчове в сантиметри\obj\Debug\netcoreapp3.1\Kонтевиране от инчове в сантиметри.AssemblyInfo.cs
+D:\visual studio\projekts\Kонтевиране от инчове в сантиметри\Kонтевиране от инчове в сантиметри\obj\Debug\netcoreapp3.1\Kонтевиране от инчове в сантиметри.dll
+D:\visual studio\projekts\Kонтевиране от инчове в сантиметри\Kонтевиране от инчове в сантиметри\obj\Debug\netcoreapp3.1\Kонтевиране от инчове в сантиметри.pdb
+D:\visual studio\projekts\Kонтевиране от инчове в сантиметри\Kонтевиране от инчове в сантиметри\obj\Debug\netcoreapp3.1\Kонтевиране от инчове в сантиметри.csprojAssemblyReference.cache
