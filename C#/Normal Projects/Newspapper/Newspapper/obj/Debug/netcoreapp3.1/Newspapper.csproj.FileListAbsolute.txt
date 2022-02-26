@@ -1,0 +1,13 @@
+D:\visual studio\projekts\Newspapper\Newspapper\obj\Debug\netcoreapp3.1\Newspapper.csproj.AssemblyReference.cache
+D:\visual studio\projekts\Newspapper\Newspapper\obj\Debug\netcoreapp3.1\Newspapper.AssemblyInfoInputs.cache
+D:\visual studio\projekts\Newspapper\Newspapper\obj\Debug\netcoreapp3.1\Newspapper.AssemblyInfo.cs
+D:\visual studio\projekts\Newspapper\Newspapper\obj\Debug\netcoreapp3.1\Newspapper.csproj.CoreCompileInputs.cache
+D:\visual studio\projekts\Newspapper\Newspapper\bin\Debug\netcoreapp3.1\Newspapper.exe
+D:\visual studio\projekts\Newspapper\Newspapper\bin\Debug\netcoreapp3.1\Newspapper.deps.json
+D:\visual studio\projekts\Newspapper\Newspapper\bin\Debug\netcoreapp3.1\Newspapper.runtimeconfig.json
+D:\visual studio\projekts\Newspapper\Newspapper\bin\Debug\netcoreapp3.1\Newspapper.runtimeconfig.dev.json
+D:\visual studio\projekts\Newspapper\Newspapper\bin\Debug\netcoreapp3.1\Newspapper.dll
+D:\visual studio\projekts\Newspapper\Newspapper\bin\Debug\netcoreapp3.1\Newspapper.pdb
+D:\visual studio\projekts\Newspapper\Newspapper\obj\Debug\netcoreapp3.1\Newspapper.dll
+D:\visual studio\projekts\Newspapper\Newspapper\obj\Debug\netcoreapp3.1\Newspapper.pdb
+D:\visual studio\projekts\Newspapper\Newspapper\obj\Debug\netcoreapp3.1\Newspapper.genruntimeconfig.cache
