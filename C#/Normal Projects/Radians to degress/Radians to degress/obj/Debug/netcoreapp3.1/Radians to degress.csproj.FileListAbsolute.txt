@@ -1,0 +1,11 @@
+D:\visual studio\projekts\Radians to degress\Radians to degress\bin\Debug\netcoreapp3.1\Radians to degress.exe
+D:\visual studio\projekts\Radians to degress\Radians to degress\bin\Debug\netcoreapp3.1\Radians to degress.deps.json
+D:\visual studio\projekts\Radians to degress\Radians to degress\bin\Debug\netcoreapp3.1\Radians to degress.runtimeconfig.json
+D:\visual studio\projekts\Radians to degress\Radians to degress\bin\Debug\netcoreapp3.1\Radians to degress.runtimeconfig.dev.json
+D:\visual studio\projekts\Radians to degress\Radians to degress\bin\Debug\netcoreapp3.1\Radians to degress.dll
+D:\visual studio\projekts\Radians to degress\Radians to degress\bin\Debug\netcoreapp3.1\Radians to degress.pdb
+D:\visual studio\projekts\Radians to degress\Radians to degress\obj\Debug\netcoreapp3.1\Radians to degress.csprojAssemblyReference.cache
+D:\visual studio\projekts\Radians to degress\Radians to degress\obj\Debug\netcoreapp3.1\Radians to degress.AssemblyInfoInputs.cache
+D:\visual studio\projekts\Radians to degress\Radians to degress\obj\Debug\netcoreapp3.1\Radians to degress.AssemblyInfo.cs
+D:\visual studio\projekts\Radians to degress\Radians to degress\obj\Debug\netcoreapp3.1\Radians to degress.dll
+D:\visual studio\projekts\Radians to degress\Radians to degress\obj\Debug\netcoreapp3.1\Radians to degress.pdb

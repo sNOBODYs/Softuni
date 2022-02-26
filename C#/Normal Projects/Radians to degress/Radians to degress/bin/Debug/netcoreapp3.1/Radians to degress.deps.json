@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Radians to degress/1.0.0": {
+        "runtime": {
+          "Radians to degress.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Radians to degress/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
