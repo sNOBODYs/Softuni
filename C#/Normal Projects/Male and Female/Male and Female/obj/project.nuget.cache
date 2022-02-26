@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tE09QXAVtixKR6LRXsQxLgv2YQ9f+d5nD6F0Oeg4NPaP903v4Ubkm1WsbBc2XPEAS48zGLT//iGypv7ZtyLhig==",
+  "success": true,
+  "projectFilePath": "D:\\visual studio\\projekts\\Male and Female\\Male and Female\\Male and Female.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

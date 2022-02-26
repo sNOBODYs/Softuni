@@ -1,0 +1,13 @@
+D:\visual studio\projekts\Male and Female\Male and Female\bin\Debug\netcoreapp3.1\Male and Female.exe
+D:\visual studio\projekts\Male and Female\Male and Female\bin\Debug\netcoreapp3.1\Male and Female.deps.json
+D:\visual studio\projekts\Male and Female\Male and Female\bin\Debug\netcoreapp3.1\Male and Female.runtimeconfig.json
+D:\visual studio\projekts\Male and Female\Male and Female\bin\Debug\netcoreapp3.1\Male and Female.runtimeconfig.dev.json
+D:\visual studio\projekts\Male and Female\Male and Female\bin\Debug\netcoreapp3.1\Male and Female.dll
+D:\visual studio\projekts\Male and Female\Male and Female\bin\Debug\netcoreapp3.1\Male and Female.pdb
+D:\visual studio\projekts\Male and Female\Male and Female\obj\Debug\netcoreapp3.1\Male and Female.csprojAssemblyReference.cache
+D:\visual studio\projekts\Male and Female\Male and Female\obj\Debug\netcoreapp3.1\Male and Female.csproj.CoreCompileInputs.cache
+D:\visual studio\projekts\Male and Female\Male and Female\obj\Debug\netcoreapp3.1\Male and Female.AssemblyInfoInputs.cache
+D:\visual studio\projekts\Male and Female\Male and Female\obj\Debug\netcoreapp3.1\Male and Female.AssemblyInfo.cs
+D:\visual studio\projekts\Male and Female\Male and Female\obj\Debug\netcoreapp3.1\Male and Female.dll
+D:\visual studio\projekts\Male and Female\Male and Female\obj\Debug\netcoreapp3.1\Male and Female.pdb
+D:\visual studio\projekts\Male and Female\Male and Female\obj\Debug\netcoreapp3.1\Male and Female.genruntimeconfig.cache

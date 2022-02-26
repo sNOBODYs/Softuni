@@ -1,0 +1,26 @@
+C:\Users\Viktoriya\source\repos\MiniExamLinearStructures\BasicArrayList\bin\Debug\netcoreapp3.1\BasicArrayList.exe
+C:\Users\Viktoriya\source\repos\MiniExamLinearStructures\BasicArrayList\bin\Debug\netcoreapp3.1\BasicArrayList.deps.json
+C:\Users\Viktoriya\source\repos\MiniExamLinearStructures\BasicArrayList\bin\Debug\netcoreapp3.1\BasicArrayList.runtimeconfig.json
+C:\Users\Viktoriya\source\repos\MiniExamLinearStructures\BasicArrayList\bin\Debug\netcoreapp3.1\BasicArrayList.runtimeconfig.dev.json
+C:\Users\Viktoriya\source\repos\MiniExamLinearStructures\BasicArrayList\bin\Debug\netcoreapp3.1\BasicArrayList.dll
+C:\Users\Viktoriya\source\repos\MiniExamLinearStructures\BasicArrayList\bin\Debug\netcoreapp3.1\BasicArrayList.pdb
+C:\Users\Viktoriya\source\repos\MiniExamLinearStructures\BasicArrayList\obj\Debug\netcoreapp3.1\BasicArrayList.csprojAssemblyReference.cache
+C:\Users\Viktoriya\source\repos\MiniExamLinearStructures\BasicArrayList\obj\Debug\netcoreapp3.1\BasicArrayList.AssemblyInfoInputs.cache
+C:\Users\Viktoriya\source\repos\MiniExamLinearStructures\BasicArrayList\obj\Debug\netcoreapp3.1\BasicArrayList.AssemblyInfo.cs
+C:\Users\Viktoriya\source\repos\MiniExamLinearStructures\BasicArrayList\obj\Debug\netcoreapp3.1\BasicArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya\source\repos\MiniExamLinearStructures\BasicArrayList\obj\Debug\netcoreapp3.1\BasicArrayList.dll
+C:\Users\Viktoriya\source\repos\MiniExamLinearStructures\BasicArrayList\obj\Debug\netcoreapp3.1\BasicArrayList.pdb
+C:\Users\Viktoriya\source\repos\MiniExamLinearStructures\BasicArrayList\obj\Debug\netcoreapp3.1\BasicArrayList.genruntimeconfig.cache
+D:\visual studio\projekts\MiniExamLinearStructures\BasicArrayList\obj\Debug\netcoreapp3.1\BasicArrayList.csproj.AssemblyReference.cache
+D:\visual studio\projekts\MiniExamLinearStructures\BasicArrayList\obj\Debug\netcoreapp3.1\BasicArrayList.AssemblyInfoInputs.cache
+D:\visual studio\projekts\MiniExamLinearStructures\BasicArrayList\obj\Debug\netcoreapp3.1\BasicArrayList.AssemblyInfo.cs
+D:\visual studio\projekts\MiniExamLinearStructures\BasicArrayList\obj\Debug\netcoreapp3.1\BasicArrayList.csproj.CoreCompileInputs.cache
+D:\visual studio\projekts\MiniExamLinearStructures\BasicArrayList\obj\Debug\netcoreapp3.1\BasicArrayList.dll
+D:\visual studio\projekts\MiniExamLinearStructures\BasicArrayList\obj\Debug\netcoreapp3.1\BasicArrayList.pdb
+D:\visual studio\projekts\MiniExamLinearStructures\BasicArrayList\bin\Debug\netcoreapp3.1\BasicArrayList.exe
+D:\visual studio\projekts\MiniExamLinearStructures\BasicArrayList\bin\Debug\netcoreapp3.1\BasicArrayList.deps.json
+D:\visual studio\projekts\MiniExamLinearStructures\BasicArrayList\bin\Debug\netcoreapp3.1\BasicArrayList.runtimeconfig.json
+D:\visual studio\projekts\MiniExamLinearStructures\BasicArrayList\bin\Debug\netcoreapp3.1\BasicArrayList.runtimeconfig.dev.json
+D:\visual studio\projekts\MiniExamLinearStructures\BasicArrayList\bin\Debug\netcoreapp3.1\BasicArrayList.dll
+D:\visual studio\projekts\MiniExamLinearStructures\BasicArrayList\bin\Debug\netcoreapp3.1\BasicArrayList.pdb
+D:\visual studio\projekts\MiniExamLinearStructures\BasicArrayList\obj\Debug\netcoreapp3.1\BasicArrayList.genruntimeconfig.cache
