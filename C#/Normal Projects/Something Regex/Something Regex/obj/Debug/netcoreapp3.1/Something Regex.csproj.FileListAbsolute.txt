@@ -1,0 +1,13 @@
+D:\visual studio\projekts\Something Regex\Something Regex\bin\Debug\netcoreapp3.1\Something Regex.exe
+D:\visual studio\projekts\Something Regex\Something Regex\bin\Debug\netcoreapp3.1\Something Regex.deps.json
+D:\visual studio\projekts\Something Regex\Something Regex\bin\Debug\netcoreapp3.1\Something Regex.runtimeconfig.json
+D:\visual studio\projekts\Something Regex\Something Regex\bin\Debug\netcoreapp3.1\Something Regex.runtimeconfig.dev.json
+D:\visual studio\projekts\Something Regex\Something Regex\bin\Debug\netcoreapp3.1\Something Regex.dll
+D:\visual studio\projekts\Something Regex\Something Regex\bin\Debug\netcoreapp3.1\Something Regex.pdb
+D:\visual studio\projekts\Something Regex\Something Regex\obj\Debug\netcoreapp3.1\Something Regex.csprojAssemblyReference.cache
+D:\visual studio\projekts\Something Regex\Something Regex\obj\Debug\netcoreapp3.1\Something Regex.AssemblyInfoInputs.cache
+D:\visual studio\projekts\Something Regex\Something Regex\obj\Debug\netcoreapp3.1\Something Regex.AssemblyInfo.cs
+D:\visual studio\projekts\Something Regex\Something Regex\obj\Debug\netcoreapp3.1\Something Regex.csproj.CoreCompileInputs.cache
+D:\visual studio\projekts\Something Regex\Something Regex\obj\Debug\netcoreapp3.1\Something Regex.dll
+D:\visual studio\projekts\Something Regex\Something Regex\obj\Debug\netcoreapp3.1\Something Regex.pdb
+D:\visual studio\projekts\Something Regex\Something Regex\obj\Debug\netcoreapp3.1\Something Regex.genruntimeconfig.cache
