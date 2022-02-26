@@ -1,0 +1,12 @@
+D:\visual studio\projekts\Nested loop 1\Nested loops 5\bin\Debug\netcoreapp3.1\Nested loops 5.exe
+D:\visual studio\projekts\Nested loop 1\Nested loops 5\bin\Debug\netcoreapp3.1\Nested loops 5.deps.json
+D:\visual studio\projekts\Nested loop 1\Nested loops 5\bin\Debug\netcoreapp3.1\Nested loops 5.runtimeconfig.json
+D:\visual studio\projekts\Nested loop 1\Nested loops 5\bin\Debug\netcoreapp3.1\Nested loops 5.runtimeconfig.dev.json
+D:\visual studio\projekts\Nested loop 1\Nested loops 5\bin\Debug\netcoreapp3.1\Nested loops 5.dll
+D:\visual studio\projekts\Nested loop 1\Nested loops 5\bin\Debug\netcoreapp3.1\Nested loops 5.pdb
+D:\visual studio\projekts\Nested loop 1\Nested loops 5\obj\Debug\netcoreapp3.1\Nested loops 5.AssemblyInfoInputs.cache
+D:\visual studio\projekts\Nested loop 1\Nested loops 5\obj\Debug\netcoreapp3.1\Nested loops 5.AssemblyInfo.cs
+D:\visual studio\projekts\Nested loop 1\Nested loops 5\obj\Debug\netcoreapp3.1\Nested loops 5.csproj.CoreCompileInputs.cache
+D:\visual studio\projekts\Nested loop 1\Nested loops 5\obj\Debug\netcoreapp3.1\Nested loops 5.dll
+D:\visual studio\projekts\Nested loop 1\Nested loops 5\obj\Debug\netcoreapp3.1\Nested loops 5.pdb
+D:\visual studio\projekts\Nested loop 1\Nested loops 5\obj\Debug\netcoreapp3.1\Nested loops 5.genruntimeconfig.cache
