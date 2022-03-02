@@ -1,0 +1,13 @@
+D:\visual studio\projekts\Vacation Trip\Vacation Trip\bin\Debug\netcoreapp3.1\Vacation Trip.exe
+D:\visual studio\projekts\Vacation Trip\Vacation Trip\bin\Debug\netcoreapp3.1\Vacation Trip.deps.json
+D:\visual studio\projekts\Vacation Trip\Vacation Trip\bin\Debug\netcoreapp3.1\Vacation Trip.runtimeconfig.json
+D:\visual studio\projekts\Vacation Trip\Vacation Trip\bin\Debug\netcoreapp3.1\Vacation Trip.runtimeconfig.dev.json
+D:\visual studio\projekts\Vacation Trip\Vacation Trip\bin\Debug\netcoreapp3.1\Vacation Trip.dll
+D:\visual studio\projekts\Vacation Trip\Vacation Trip\bin\Debug\netcoreapp3.1\Vacation Trip.pdb
+D:\visual studio\projekts\Vacation Trip\Vacation Trip\obj\Debug\netcoreapp3.1\Vacation Trip.csprojAssemblyReference.cache
+D:\visual studio\projekts\Vacation Trip\Vacation Trip\obj\Debug\netcoreapp3.1\Vacation Trip.csproj.CoreCompileInputs.cache
+D:\visual studio\projekts\Vacation Trip\Vacation Trip\obj\Debug\netcoreapp3.1\Vacation Trip.AssemblyInfoInputs.cache
+D:\visual studio\projekts\Vacation Trip\Vacation Trip\obj\Debug\netcoreapp3.1\Vacation Trip.AssemblyInfo.cs
+D:\visual studio\projekts\Vacation Trip\Vacation Trip\obj\Debug\netcoreapp3.1\Vacation Trip.dll
+D:\visual studio\projekts\Vacation Trip\Vacation Trip\obj\Debug\netcoreapp3.1\Vacation Trip.pdb
+D:\visual studio\projekts\Vacation Trip\Vacation Trip\obj\Debug\netcoreapp3.1\Vacation Trip.genruntimeconfig.cache

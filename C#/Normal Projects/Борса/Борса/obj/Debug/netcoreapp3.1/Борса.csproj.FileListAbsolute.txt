@@ -1,0 +1,13 @@
+D:\visual studio\projekts\Борса\Борса\obj\Debug\netcoreapp3.1\Борса.csprojAssemblyReference.cache
+D:\visual studio\projekts\Борса\Борса\obj\Debug\netcoreapp3.1\Борса.csproj.CoreCompileInputs.cache
+D:\visual studio\projekts\Борса\Борса\obj\Debug\netcoreapp3.1\Борса.AssemblyInfoInputs.cache
+D:\visual studio\projekts\Борса\Борса\obj\Debug\netcoreapp3.1\Борса.AssemblyInfo.cs
+D:\visual studio\projekts\Борса\Борса\bin\Debug\netcoreapp3.1\Борса.exe
+D:\visual studio\projekts\Борса\Борса\bin\Debug\netcoreapp3.1\Борса.deps.json
+D:\visual studio\projekts\Борса\Борса\bin\Debug\netcoreapp3.1\Борса.runtimeconfig.json
+D:\visual studio\projekts\Борса\Борса\bin\Debug\netcoreapp3.1\Борса.runtimeconfig.dev.json
+D:\visual studio\projekts\Борса\Борса\bin\Debug\netcoreapp3.1\Борса.dll
+D:\visual studio\projekts\Борса\Борса\bin\Debug\netcoreapp3.1\Борса.pdb
+D:\visual studio\projekts\Борса\Борса\obj\Debug\netcoreapp3.1\Борса.dll
+D:\visual studio\projekts\Борса\Борса\obj\Debug\netcoreapp3.1\Борса.pdb
+D:\visual studio\projekts\Борса\Борса\obj\Debug\netcoreapp3.1\Борса.genruntimeconfig.cache
