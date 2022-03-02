@@ -1,0 +1,11 @@
+D:\visual studio\projekts\Пресмятане на точен квадрат\Пресмятане на точен квадрат\bin\Debug\netcoreapp3.1\Пресмятане на точен квадрат.exe
+D:\visual studio\projekts\Пресмятане на точен квадрат\Пресмятане на точен квадрат\bin\Debug\netcoreapp3.1\Пресмятане на точен квадрат.deps.json
+D:\visual studio\projekts\Пресмятане на точен квадрат\Пресмятане на точен квадрат\bin\Debug\netcoreapp3.1\Пресмятане на точен квадрат.runtimeconfig.json
+D:\visual studio\projekts\Пресмятане на точен квадрат\Пресмятане на точен квадрат\bin\Debug\netcoreapp3.1\Пресмятане на точен квадрат.runtimeconfig.dev.json
+D:\visual studio\projekts\Пресмятане на точен квадрат\Пресмятане на точен квадрат\bin\Debug\netcoreapp3.1\Пресмятане на точен квадрат.dll
+D:\visual studio\projekts\Пресмятане на точен квадрат\Пресмятане на точен квадрат\bin\Debug\netcoreapp3.1\Пресмятане на точен квадрат.pdb
+D:\visual studio\projekts\Пресмятане на точен квадрат\Пресмятане на точен квадрат\obj\Debug\netcoreapp3.1\Пресмятане на точен квадрат.csprojAssemblyReference.cache
+D:\visual studio\projekts\Пресмятане на точен квадрат\Пресмятане на точен квадрат\obj\Debug\netcoreapp3.1\Пресмятане на точен квадрат.AssemblyInfoInputs.cache
+D:\visual studio\projekts\Пресмятане на точен квадрат\Пресмятане на точен квадрат\obj\Debug\netcoreapp3.1\Пресмятане на точен квадрат.AssemblyInfo.cs
+D:\visual studio\projekts\Пресмятане на точен квадрат\Пресмятане на точен квадрат\obj\Debug\netcoreapp3.1\Пресмятане на точен квадрат.dll
+D:\visual studio\projekts\Пресмятане на точен квадрат\Пресмятане на точен квадрат\obj\Debug\netcoreapp3.1\Пресмятане на точен квадрат.pdb
