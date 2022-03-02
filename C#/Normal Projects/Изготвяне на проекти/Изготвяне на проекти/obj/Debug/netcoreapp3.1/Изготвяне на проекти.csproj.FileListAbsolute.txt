@@ -1,0 +1,11 @@
+D:\visual studio\projekts\Изготвяне на проекти\Изготвяне на проекти\bin\Debug\netcoreapp3.1\Изготвяне на проекти.exe
+D:\visual studio\projekts\Изготвяне на проекти\Изготвяне на проекти\bin\Debug\netcoreapp3.1\Изготвяне на проекти.deps.json
+D:\visual studio\projekts\Изготвяне на проекти\Изготвяне на проекти\bin\Debug\netcoreapp3.1\Изготвяне на проекти.runtimeconfig.json
+D:\visual studio\projekts\Изготвяне на проекти\Изготвяне на проекти\bin\Debug\netcoreapp3.1\Изготвяне на проекти.runtimeconfig.dev.json
+D:\visual studio\projekts\Изготвяне на проекти\Изготвяне на проекти\bin\Debug\netcoreapp3.1\Изготвяне на проекти.dll
+D:\visual studio\projekts\Изготвяне на проекти\Изготвяне на проекти\bin\Debug\netcoreapp3.1\Изготвяне на проекти.pdb
+D:\visual studio\projekts\Изготвяне на проекти\Изготвяне на проекти\obj\Debug\netcoreapp3.1\Изготвяне на проекти.csprojAssemblyReference.cache
+D:\visual studio\projekts\Изготвяне на проекти\Изготвяне на проекти\obj\Debug\netcoreapp3.1\Изготвяне на проекти.AssemblyInfoInputs.cache
+D:\visual studio\projekts\Изготвяне на проекти\Изготвяне на проекти\obj\Debug\netcoreapp3.1\Изготвяне на проекти.AssemblyInfo.cs
+D:\visual studio\projekts\Изготвяне на проекти\Изготвяне на проекти\obj\Debug\netcoreapp3.1\Изготвяне на проекти.dll
+D:\visual studio\projekts\Изготвяне на проекти\Изготвяне на проекти\obj\Debug\netcoreapp3.1\Изготвяне на проекти.pdb
