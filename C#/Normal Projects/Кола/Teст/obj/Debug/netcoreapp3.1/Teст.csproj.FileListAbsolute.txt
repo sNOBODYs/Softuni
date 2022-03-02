@@ -1,0 +1,13 @@
+D:\visual studio\projekts\Кола\Teст\bin\Debug\netcoreapp3.1\Teст.exe
+D:\visual studio\projekts\Кола\Teст\bin\Debug\netcoreapp3.1\Teст.deps.json
+D:\visual studio\projekts\Кола\Teст\bin\Debug\netcoreapp3.1\Teст.runtimeconfig.json
+D:\visual studio\projekts\Кола\Teст\bin\Debug\netcoreapp3.1\Teст.runtimeconfig.dev.json
+D:\visual studio\projekts\Кола\Teст\bin\Debug\netcoreapp3.1\Teст.dll
+D:\visual studio\projekts\Кола\Teст\bin\Debug\netcoreapp3.1\Teст.pdb
+D:\visual studio\projekts\Кола\Teст\obj\Debug\netcoreapp3.1\Teст.csprojAssemblyReference.cache
+D:\visual studio\projekts\Кола\Teст\obj\Debug\netcoreapp3.1\Teст.AssemblyInfoInputs.cache
+D:\visual studio\projekts\Кола\Teст\obj\Debug\netcoreapp3.1\Teст.AssemblyInfo.cs
+D:\visual studio\projekts\Кола\Teст\obj\Debug\netcoreapp3.1\Teст.csproj.CoreCompileInputs.cache
+D:\visual studio\projekts\Кола\Teст\obj\Debug\netcoreapp3.1\Teст.dll
+D:\visual studio\projekts\Кола\Teст\obj\Debug\netcoreapp3.1\Teст.pdb
+D:\visual studio\projekts\Кола\Teст\obj\Debug\netcoreapp3.1\Teст.genruntimeconfig.cache

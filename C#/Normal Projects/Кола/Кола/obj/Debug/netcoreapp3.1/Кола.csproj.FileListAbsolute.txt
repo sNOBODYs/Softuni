@@ -1,0 +1,13 @@
+D:\visual studio\projekts\Кола\Кола\bin\Debug\netcoreapp3.1\Кола.exe
+D:\visual studio\projekts\Кола\Кола\bin\Debug\netcoreapp3.1\Кола.deps.json
+D:\visual studio\projekts\Кола\Кола\bin\Debug\netcoreapp3.1\Кола.runtimeconfig.json
+D:\visual studio\projekts\Кола\Кола\bin\Debug\netcoreapp3.1\Кола.runtimeconfig.dev.json
+D:\visual studio\projekts\Кола\Кола\bin\Debug\netcoreapp3.1\Кола.dll
+D:\visual studio\projekts\Кола\Кола\bin\Debug\netcoreapp3.1\Кола.pdb
+D:\visual studio\projekts\Кола\Кола\obj\Debug\netcoreapp3.1\Кола.csprojAssemblyReference.cache
+D:\visual studio\projekts\Кола\Кола\obj\Debug\netcoreapp3.1\Кола.AssemblyInfoInputs.cache
+D:\visual studio\projekts\Кола\Кола\obj\Debug\netcoreapp3.1\Кола.AssemblyInfo.cs
+D:\visual studio\projekts\Кола\Кола\obj\Debug\netcoreapp3.1\Кола.csproj.CoreCompileInputs.cache
+D:\visual studio\projekts\Кола\Кола\obj\Debug\netcoreapp3.1\Кола.dll
+D:\visual studio\projekts\Кола\Кола\obj\Debug\netcoreapp3.1\Кола.pdb
+D:\visual studio\projekts\Кола\Кола\obj\Debug\netcoreapp3.1\Кола.genruntimeconfig.cache
