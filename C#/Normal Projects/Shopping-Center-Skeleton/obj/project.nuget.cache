@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WKTNlnSxQJqUxbG+mBS+hmPtnnGGjZVswpIVCK0kjPhJXTOLeR11wF/kQXR6xry4NYiQpzaUtE+NvePfJBN1tw==",
+  "success": true,
+  "projectFilePath": "D:\\Programing\\Visual studio\\Projects C#\\Shopping-Center-Skeleton\\Shopping-Center.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\georg\\.nuget\\packages\\softuni.wintellect.powercollections\\2.0.0\\softuni.wintellect.powercollections.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
