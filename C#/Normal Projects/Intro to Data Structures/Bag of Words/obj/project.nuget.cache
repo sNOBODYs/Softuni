@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I07k+IFvXneEoMo7PF0V6Y4yKcIYrGhxJLthPnH3DcD4DCwLifzjBMwfqQcktnhA6u/MaCogQTT0IpKRR5f3NA==",
+  "success": true,
+  "projectFilePath": "D:\\Programing\\Visual studio\\Projects C#\\Intro to Data Structures\\Bag of Words\\Bag of Words.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\georg\\.nuget\\packages\\softuni.wintellect.powercollections\\2.0.0\\softuni.wintellect.powercollections.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

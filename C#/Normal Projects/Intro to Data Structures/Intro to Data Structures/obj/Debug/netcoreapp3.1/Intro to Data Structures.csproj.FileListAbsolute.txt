@@ -1,0 +1,14 @@
+D:\Programing\Visual studio\Projects C#\Intro to Data Structures\Intro to Data Structures\bin\Debug\netcoreapp3.1\Intro to Data Structures.exe
+D:\Programing\Visual studio\Projects C#\Intro to Data Structures\Intro to Data Structures\bin\Debug\netcoreapp3.1\Intro to Data Structures.deps.json
+D:\Programing\Visual studio\Projects C#\Intro to Data Structures\Intro to Data Structures\bin\Debug\netcoreapp3.1\Intro to Data Structures.runtimeconfig.json
+D:\Programing\Visual studio\Projects C#\Intro to Data Structures\Intro to Data Structures\bin\Debug\netcoreapp3.1\Intro to Data Structures.runtimeconfig.dev.json
+D:\Programing\Visual studio\Projects C#\Intro to Data Structures\Intro to Data Structures\bin\Debug\netcoreapp3.1\Intro to Data Structures.dll
+D:\Programing\Visual studio\Projects C#\Intro to Data Structures\Intro to Data Structures\bin\Debug\netcoreapp3.1\Intro to Data Structures.pdb
+D:\Programing\Visual studio\Projects C#\Intro to Data Structures\Intro to Data Structures\obj\Debug\netcoreapp3.1\Intro to Data Structures.csproj.AssemblyReference.cache
+D:\Programing\Visual studio\Projects C#\Intro to Data Structures\Intro to Data Structures\obj\Debug\netcoreapp3.1\Intro to Data Structures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\Visual studio\Projects C#\Intro to Data Structures\Intro to Data Structures\obj\Debug\netcoreapp3.1\Intro to Data Structures.AssemblyInfoInputs.cache
+D:\Programing\Visual studio\Projects C#\Intro to Data Structures\Intro to Data Structures\obj\Debug\netcoreapp3.1\Intro to Data Structures.AssemblyInfo.cs
+D:\Programing\Visual studio\Projects C#\Intro to Data Structures\Intro to Data Structures\obj\Debug\netcoreapp3.1\Intro to Data Structures.csproj.CoreCompileInputs.cache
+D:\Programing\Visual studio\Projects C#\Intro to Data Structures\Intro to Data Structures\obj\Debug\netcoreapp3.1\Intro to Data Structures.dll
+D:\Programing\Visual studio\Projects C#\Intro to Data Structures\Intro to Data Structures\obj\Debug\netcoreapp3.1\Intro to Data Structures.pdb
+D:\Programing\Visual studio\Projects C#\Intro to Data Structures\Intro to Data Structures\obj\Debug\netcoreapp3.1\Intro to Data Structures.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e8KF+aHV4SbLlvLrkXtJrhL2zzEetLuHrSLj45W+ub3sPf9RxWNPelS+s8Xely9xyPz97NJckbWlVCRRl3zWuw==",
+  "success": true,
+  "projectFilePath": "D:\\Programing\\Visual studio\\Projects C#\\Intro to Data Structures\\Intro to Data Structures\\Intro to Data Structures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\georg\\.nuget\\packages\\softuni.wintellect.powercollections\\2.0.0\\softuni.wintellect.powercollections.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
